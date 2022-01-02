@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fahadammar
 - 👀 I’m interested in coding, mobile application development, learning, and enhancing skills
 - 🌱 I’m currently working as Android Developer
-- 📫 How to reach me 👉 my LinkedIn: www.linkedin.com/fahadammar
+- 📫 How to reach me 👉 my LinkedIn: www.linkedin.com/in/fahadammar
 
 #Flutter #AndroidNative #Firebase #Git #Kotlin #Dart #Android
 
