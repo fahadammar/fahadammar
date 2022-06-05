@@ -1,10 +1,10 @@
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://fahadammar.com) -->
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://fahadammar.com)
 
 <h1 align="center">Hi 👋, I'm Fahad Ammar</h1>
 <h3 align="center">A passionate Android Developer. I really love learning and enhance my skills.</h3>
 
 
-<img align="right" style="display:block;margin-left:auto;margin-right:auto;width:50%;" alt="Fahad Ammar Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300&vertical=top)"/>
+<img align="right" style="display:block;margin-left:auto;margin-right:auto;width:50%;" alt="Fahad Ammar Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadammar&label=Profile%20views&color=0e75b6&style=flat" alt="fahadammar" /> </p>
 
