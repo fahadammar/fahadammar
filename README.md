@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Android Native and Flutter**
 
-- 📫 How to reach me **👉 Visit my LinkedIn profile and just leave a message. I'll try my best to respond you asap I can.**
+- 📫 How to reach me **👉 Visit my LinkedIn profile and just leave a message. I'll try my best to respond you ASAP I can.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
