@@ -3,7 +3,7 @@
 <!-- [![MasterHead](https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif)](https://linkedin/in/fahadammar.com)
   -->
 
-<h1 align="center">Hi 👋, I'am Fahad Ammar</h1>
+<h1 align="center">Hi 👋, I'm Fahad Ammar</h1>
 <h3 align="center">A passionate Android Developer. I really love learning and enhancing my skills.</h3>
 
 <img align="right" style="display:block;margin-left:auto;margin-right:auto;width:50%;" alt="Fahad Ammar Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
